@@ -2,7 +2,7 @@
   "name": "seamless webpage",
   "version": "1.0.0",
   "description": "A minimal Electron application",
-  "main": "main.js",
+  "main": "script(copy).js",
   "scripts": {
     "start": "Seamless."
   },
