@@ -1,0 +1,22 @@
+{
+  "name": "seamless webpage",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "Seamless."
+  },
+  "repository": "https://github.com/Moomat99/Seamless",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Matthew",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^24.3.0"
+  }
+}
